@@ -25,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jadeteja/dailycodingproblem/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/jadeteja/dailycodingproblem/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jadeteja/dailycodingproblem/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadeteja/dailycodingproblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/jadeteja/dailycodingproblem/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jadeteja/dailycodingproblem/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jadeteja/dailycodingproblem/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
