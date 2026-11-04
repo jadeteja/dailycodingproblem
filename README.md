@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/jadeteja/dailycodingproblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jadeteja/dailycodingproblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jadeteja/dailycodingproblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1854-maximum-population-year](https://github.com/jadeteja/dailycodingproblem/tree/master/1854-maximum-population-year) |
 ## String
 |  |
 | ------- |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jadeteja/dailycodingproblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/jadeteja/dailycodingproblem/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/jadeteja/dailycodingproblem/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
